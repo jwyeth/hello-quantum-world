@@ -1,3 +1,3 @@
 # hello-quantum-world
 
-This is just a collection of some very basic Q# scripts I was using to explore the language. Not much to see here.
+This is a collection of some basic Q# apps I am writing to explore the next generation of computing. Likely not much to see here.
