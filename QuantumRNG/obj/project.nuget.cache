@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "32qBOb/G+Q+omkXRbzO/IMZDKQrlZ0U6ppaMJUvRI//fkXWhj2lwCBnYfqgJKSQVQKpdxx5lge6/KiW/q37OqA==",
+  "dgSpecHash": "JrGFdbQ6RMfhwxfQwYgOOGZeAWsHbpIcOxgSFwlGxo+oVIQBORG1SjVINpt+mO1s73eL9pDyr2qz6aKqhUKznw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jwyeth\\Code\\Quantum\\QuantumRNG\\QuantumRNG.csproj",
+  "projectFilePath": "C:\\Users\\jwyeth\\Documents\\GitHub\\hello-quantum-world\\QuantumRNG\\QuantumRNG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jwyeth\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\jwyeth\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",

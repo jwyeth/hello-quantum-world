@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jwyeth\\Code\\Quantum\\QuantumRNG\\QuantumRNG.csproj": {}
+    "C:\\Users\\jwyeth\\Documents\\GitHub\\hello-quantum-world\\QuantumRNG\\QuantumRNG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jwyeth\\Code\\Quantum\\QuantumRNG\\QuantumRNG.csproj": {
+    "C:\\Users\\jwyeth\\Documents\\GitHub\\hello-quantum-world\\QuantumRNG\\QuantumRNG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jwyeth\\Code\\Quantum\\QuantumRNG\\QuantumRNG.csproj",
+        "projectUniqueName": "C:\\Users\\jwyeth\\Documents\\GitHub\\hello-quantum-world\\QuantumRNG\\QuantumRNG.csproj",
         "projectName": "QuantumRNG",
-        "projectPath": "C:\\Users\\jwyeth\\Code\\Quantum\\QuantumRNG\\QuantumRNG.csproj",
+        "projectPath": "C:\\Users\\jwyeth\\Documents\\GitHub\\hello-quantum-world\\QuantumRNG\\QuantumRNG.csproj",
         "packagesPath": "C:\\Users\\jwyeth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jwyeth\\Code\\Quantum\\QuantumRNG\\obj\\",
+        "outputPath": "C:\\Users\\jwyeth\\Documents\\GitHub\\hello-quantum-world\\QuantumRNG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

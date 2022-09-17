@@ -1,10 +1,10 @@
 --proj
-    "C:\Users\jwyeth\Code\Quantum\QuantumRNG\QuantumRNG"
+    "C:\Users\jwyeth\Documents\GitHub\hello-quantum-world\QuantumRNG\QuantumRNG"
 --build-exe
 --input
-    "C:\Users\jwyeth\Code\Quantum\QuantumRNG\Program.qs"
+    "C:\Users\jwyeth\Documents\GitHub\hello-quantum-world\QuantumRNG\Program.qs"
 --output
-    "C:/Users/jwyeth/Code/Quantum/QuantumRNG/obj/qsharp/"
+    "C:/Users/jwyeth/Documents/GitHub/hello-quantum-world/QuantumRNG/obj/qsharp/"
 --references
     "C:\Users\jwyeth\.nuget\packages\azure.core\1.25.0\lib\net5.0\Azure.Core.dll"
     "C:\Users\jwyeth\.nuget\packages\azure.identity\1.5.0\lib\netstandard2.0\Azure.Identity.dll"
@@ -42,7 +42,7 @@
     FullComputation
 --skip-monomorphization
 --package-load-fallback-folders
-    "C:/Users/jwyeth/Code/Quantum/QuantumRNG/bin/Debug/net6.0/"
+    "C:/Users/jwyeth/Documents/GitHub/hello-quantum-world/QuantumRNG/bin/Debug/net6.0/"
 --assembly-properties
     DocsPackageId:QuantumRNG
     ExecutionTarget:Any
